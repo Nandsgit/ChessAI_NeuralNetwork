@@ -1,6 +1,6 @@
 # ProjectDelta6Chess
 
-Part of the Word-1st Conference, initiated by Konstantinos Kalaitzidis, Foothill College
+CogSciAiClub, Foothill College
 
 ABSTRACT:
 
